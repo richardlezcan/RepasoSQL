@@ -48,3 +48,5 @@ WHERE precio > 100;
 SELECT * FROM productos
 WHERE precio BETWEEN 50 AND 500;
 
+
+
